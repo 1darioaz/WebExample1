@@ -1,0 +1,6 @@
+{
+  "name": "Zona de Clientes - Mi IPLAN",
+  "description": "Portal interactivo y centro de clientes corporativo de IPLAN Argentina con gestión de servicios, upgrades, telefonía cloud e IA PatricIA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
